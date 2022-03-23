@@ -1,7 +1,7 @@
 # Employee_CRUD_Application
 Employee_CRUD_Application using Spring Boot,MySql,RestAPI,dataJPA 
 here is the simple project for crud operarion , where Employee is the entity.
-I have created 4 fields for Employee class . [ used project lombok ]
+I have created 4 fields for Employee class . [ used project lombok ] {check:master branch}
 maven project using springboot.
 project stucture: by Layer- springbootapplication.class
                             |_
